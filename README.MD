@@ -6,4 +6,6 @@ By Ryan Chen | Special Projects Reporter
 
 This is a graph to show how Purdue President Mitch Daniels' salary has grown in the past seven years.
 
+Data sourced from [previous salary data reporting](https://github.com/fatcat2/sturdy-pancake).
+
 Made for [@purdueexponent](https://twitter.com/purdueexponent).
